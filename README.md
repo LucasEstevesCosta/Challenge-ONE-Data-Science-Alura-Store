@@ -16,6 +16,9 @@ Ao final da análise, é apresentada uma recomendação clara e justificada, bas
 ### Objetivo
 Este desafio foca no desenvolvimento das habilidades de análise de dados com Python, utilizando um caderno base com os dados já preparados para facilitar o aprendizado, vizando assim consolidar os conceitos aprendidos até então no decorrer das aulas.
 
+
+
+
 *** (VERIFICAR O TEXTO ABAIXO)
 # Análise de Dados das Lojas Alura Store para Decisão Estratégica
 
@@ -27,7 +30,6 @@ Este projeto está estruturado da seguinte forma:
 
 * `/data`: Este diretório conterá os arquivos CSV com os dados de cada uma das quatro lojas da Alura Store. Os nomes dos arquivos seguirão o padrão `loja_X.csv`, onde `X` representa o número da loja (1 a 4).
 * `/notebooks`: Este diretório abrigará o notebook Jupyter (`.ipynb`) principal, onde toda a análise exploratória dos dados, criação dos gráficos e a apresentação da recomendação serão desenvolvidas.
-* `/imagens` (opcional): Caso necessário, este diretório poderá conter as imagens dos gráficos gerados durante a análise.
 * `README.md`: Este arquivo, que você está lendo agora, fornecerá uma visão geral do projeto.
 
 ## Exemplos de Gráficos e Insights Obtidos
