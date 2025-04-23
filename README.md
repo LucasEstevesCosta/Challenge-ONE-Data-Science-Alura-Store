@@ -49,8 +49,8 @@ Através dessas visualizações e da análise das métricas, esperamos obter ins
 Para executar o notebook e reproduzir a análise, siga os seguintes passos:
 
 1.  **Clone o repositório:** Faça um clone deste repositório para o seu ambiente local.
-2.  **Navegue até o diretório `notebooks`:** Utilize o terminal ou prompt de comando para acessar a pasta `notebooks`.
-3.  **Execute o notebook Jupyter:** Certifique-se de ter o Jupyter instalado em seu ambiente Python. Execute o comando `jupyter notebook` para abrir o notebook no seu navegador.
+2.  **Execute o notebook Jupyter na pasta `root`:** Certifique-se de ter o Jupyter instalado em seu ambiente Python. Execute o comando `jupyter notebook` para abrir o notebook no seu navegador.
+3.  **Abrindo no Google Colab:** Como alternativa pode fazer upload do notebook no Google Drive e abri-lo de lá, onde o carregará direto no Google Colab.
 4.  **Siga as instruções no notebook:** O notebook conterá o código Python para carregar os dados, realizar a análise, gerar os gráficos e apresentar a recomendação final. Execute as células do notebook sequencialmente para acompanhar o processo.
 5.  **Visualize os resultados:** Os gráficos gerados e a análise textual estarão visíveis diretamente no notebook.
 
