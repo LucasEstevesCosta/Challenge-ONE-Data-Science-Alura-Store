@@ -31,13 +31,13 @@ Através dessas visualizações e da análise das métricas, esperamos obter ins
 - Importação dos dados
 - Funções
 - Análise do faturamento
-  -  Diferença de faturamento entre as lojas em porcentagem
--  Vendas por Categoria
-  -  Comparativo entre as lojas
-  -  Detalhamento de cada loja
-  -  Quantidade de vendas por categoria
-  -  Valor total de vendas por categoria em Reais
-  -  Comparação entre as lojas em categorias específicas
+  - Diferença de faturamento entre as lojas em porcentagem
+- Vendas por Categoria
+  - Comparativo entre as lojas
+  - Detalhamento de cada loja
+  - Quantidade de vendas por categoria
+  - Valor total de vendas por categoria em Reais
+  - Comparação entre as lojas em categorias específicas
 - Média de Avaliação das Lojas
 - Produtos Mais e Menos Vendidos
 - Frete Médio por Loja
