@@ -15,13 +15,34 @@ Este projeto está estruturado da seguinte forma:
 Na análise encontrará diversos gráficos para visualizar os dados e extrair insights relevantes. Alguns exemplos incluem:
 
 * **Gráfico de barras comparando o faturamento total de cada loja:** Este gráfico permitirá identificar rapidamente qual loja possui o menor volume de vendas.
+* ![image](https://github.com/user-attachments/assets/afafc37c-9bf5-4137-9c42-edc114190474)
+
 * **Gráfico de pizza mostrando a distribuição das categorias de produtos mais vendidas por loja:** Isso ajudará a entender o foco de cada loja e identificar possíveis nichos com baixo desempenho.
+* ![image](https://github.com/user-attachments/assets/bb1b655f-094d-4abf-8a34-3d3d770efe8c)
+
 
 Através dessas visualizações e da análise das métricas, esperamos obter insights como:
 
 * Identificação da loja com o menor faturamento e/ou menor crescimento nas vendas.
 * Verificação se a loja com pior desempenho possui avaliações de clientes consistentemente mais baixas.
 * Detecção de possíveis problemas relacionados ao frete ou a categorias de produtos específicas em alguma das lojas.
+
+### Estrutura dos tópicos
+- Importação dos dados
+- Funções
+- Análise do faturamento
+  -  Diferença de faturamento entre as lojas em porcentagem
+-  Vendas por Categoria
+  -  Comparativo entre as lojas
+  -  Detalhamento de cada loja
+  -  Quantidade de vendas por categoria
+  -  Valor total de vendas por categoria em Reais
+  -  Comparação entre as lojas em categorias específicas
+- Média de Avaliação das Lojas
+- Produtos Mais e Menos Vendidos
+- Frete Médio por Loja
+- Volume de vendas por Período
+- Relatório
 
 ## Instruções para Executar o Notebook
 
